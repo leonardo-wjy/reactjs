@@ -1,0 +1,34 @@
+{
+    "lead": [
+        {
+            "date": "June 09, 2021, 12.29 p.m.",
+            "leads": "Mark",
+            "project": "Gardens at Candi Sawangan",
+            "sales": "Ronny Prabowo",
+            "phone": "08383882292",
+            "budget": "",
+            "status": "New",
+            "last": "menunggu survey"
+          }, 
+          {
+            "date": "June 10, 2021, 12.29 p.m.",
+            "leads": "Jacob",
+            "project": "Gardens at Candi Sawangan",
+            "sales": "Rinaldi",
+            "phone": "08383882292",
+            "budget": "",
+            "status": "Waiting",
+            "last": "menunggu survey"
+          }, 
+          {
+            "date": "June 11, 2021, 12.29 p.m.",
+            "leads": "Joker",
+            "project": "Gardens at Candi Golf",
+            "sales": "Joker",
+            "phone": "0838399430",
+            "budget": "",
+            "status": "Done",
+            "last": "sudah survey"
+          }
+    ]
+}
