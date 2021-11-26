@@ -27,14 +27,23 @@
       ]
     },
     "Pengaturan": {
-      "Pengaturan-ManajemenRole": [
+      "Pengaturan-ManajemenPengguna": [
         1,
         2,
         3
       ],
-      "Pengaturan-DataPerusahaan": [
+      "Pengaturan-ManajemenMenu": [
         4,
-        5
+        5,
+      ]
+      "Pengaturan-ManajemenRole": [
+        6,
+        7,
+        8
+      ],
+      "Pengaturan-DataPerusahaan": [
+        9,
+        10
       ]
     }
   }
