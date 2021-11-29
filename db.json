@@ -4,8 +4,6 @@
   "profile": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png",
   "role": "owner",
   "permission": {
-    "Dashboard": {
-    },
     "Master": {
       "Produk": [
         1,
@@ -23,11 +21,6 @@
       ]
     },
     "Pembelian": {
-      "Permintaan-Pembelian": [
-        1,
-        2,
-        3
-      ],
       "Order-Pembelian": [
         4,
         5
