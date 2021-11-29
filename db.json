@@ -4,6 +4,7 @@
   "profile": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png",
   "role": "owner",
   "permission": {
+    "Dashboard": {},
     "Master": {
       "Produk": [
         1,
@@ -18,6 +19,36 @@
       "Outlet": [
         4,
         5
+      ],
+      "Satuan": [
+        1,
+        2,
+        3
+      ],
+      "Tipe-Barang": [
+        1,
+        2,
+        3
+      ],
+      "Gudang": [
+        1,
+        2,
+        3
+      ],
+      "Pegawai": [
+        1,
+        2,
+        3
+      ],
+      "Jabatan": [
+        1,
+        2,
+        3
+      ],
+      "Akun": [
+        1,
+        2,
+        3
       ]
     },
     "Pengaturan": {
