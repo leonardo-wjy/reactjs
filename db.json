@@ -50,6 +50,17 @@
         3
       ]
     },
+    "Personalia": {
+      "Absensi": [
+        1,
+        2,
+        3
+      ],
+      "Penggajian": [
+        4,
+        5
+      ]
+    },
     "Pengaturan": {
       "Manajemen-Pengguna": [
         1,
