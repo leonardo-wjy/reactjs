@@ -4,8 +4,14 @@
   "profile": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png",
   "role": "owner",
   "permission": {
+    "Dashboard",
     "Master": {
       "Produk": [
+        1,
+        2,
+        3
+      ],
+      "Supplier": [
         1,
         2,
         3
@@ -16,32 +22,32 @@
       ]
     },
     "Pembelian": {
-      "Pembelian-Bahan": [
+      "Permintaan-Pembelian": [
         1,
         2,
         3
       ],
-      "Pembelian-Barang": [
+      "Order-Pembelian": [
         4,
         5
       ]
     },
     "Pengaturan": {
-      "Pengaturan-ManajemenPengguna": [
+      "Manajemen-Pengguna": [
         1,
         2,
         3
       ],
-      "Pengaturan-ManajemenMenu": [
+      "Manajemen-Menu": [
         4,
         5
       ],
-      "Pengaturan-ManajemenRole": [
+      "Manajemen-Hak-Akses": [
         6,
         7,
         8
       ],
-      "Pengaturan-DataPerusahaan": [
+      "Manajemen-Role": [
         9,
         10
       ]
