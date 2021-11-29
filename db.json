@@ -50,6 +50,30 @@
         3
       ]
     },
+    "Inventory": {
+      "Lihat-Stok": [
+        1,
+        2,
+        3
+      ],
+      "Permintaan-Barang": [
+        4,
+        5
+      ],
+      "Pengiriman": [
+        6,
+        7,
+        8
+      ],
+      "Stok-Masuk-Dan-Keluar": [
+        9,
+        10
+      ],
+      "Transfer-Stok": [
+        11,
+        12
+      ]
+    },
     "Akuntansi": {
       "Jurnal-Umum": [
         1,
