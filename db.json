@@ -98,6 +98,7 @@
         12
       ]
     },
+    "Produksi",
     "Akuntansi": {
       "Jurnal-Umum": [
         1,
@@ -129,6 +130,7 @@
         5
       ]
     },
+    "Audit-Trail",
     "Pengaturan": {
       "Manajemen-Pengguna": [
         1,
