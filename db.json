@@ -50,6 +50,26 @@
         3
       ]
     },
+    "Akuntansi": {
+      "Jurnal-Umum": [
+        1,
+        2,
+        3
+      ],
+      "Buku-Besar": [
+        4,
+        5
+      ],
+      "Laporan": [
+        6,
+        7,
+        8
+      ],
+      "Pengaturan-Akun": [
+        9,
+        10
+      ]
+    },
     "Personalia": {
       "Absensi": [
         1,
