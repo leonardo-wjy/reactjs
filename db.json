@@ -50,6 +50,30 @@
         3
       ]
     },
+    "Penjualan": {
+      "Order-Penjualan": [
+        1,
+        2,
+        3
+      ],
+      "Menu-Penjualan": [
+        4,
+        5
+      ],
+      "Retur-Penjualan": [
+        6,
+        7,
+        8
+      ],
+      "Kitchen": [
+        9,
+        10
+      ],
+      "Laporan": [
+        11,
+        12
+      ]
+    },
     "Inventory": {
       "Lihat-Stok": [
         1,
