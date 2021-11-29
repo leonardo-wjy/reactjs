@@ -55,6 +55,31 @@
         1,
         2,
         3
+      ],
+      "Order-Pembelian": [
+        1,
+        2,
+        3
+      ],
+      "Penerimaan-Pembelian": [
+        1,
+        2,
+        3
+      ],
+      "Pembayaran-Supplier": [
+        1,
+        2,
+        3
+      ],
+      "Retur-Pembelian": [
+        1,
+        2,
+        3
+      ],
+      "Laporan-Pembelian": [
+        1,
+        2,
+        3
       ]
     },
     "Penjualan": {
