@@ -1,193 +1,200 @@
 {
   "data":{
+  {
   "name": "farrel varian",
   "profile": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png",
   "role": "owner",
-  "permission": {
-    "Dashboard":{},
-    "Master": {
-      "Produk": [
-        1,
-        2,
-        3
-      ],
-      "Supplier": [
-        1,
-        2,
-        3
-      ],
-      "Outlet": [
-        4,
-        5
-      ],
-      "Satuan": [
-        1,
-        2,
-        3
-      ],
-      "Tipe-Barang": [
-        1,
-        2,
-        3
-      ],
-      "Gudang": [
-        1,
-        2,
-        3
-      ],
-      "Pegawai": [
-        1,
-        2,
-        3
-      ],
-      "Jabatan": [
-        1,
-        2,
-        3
-      ],
-      "Akun": [
-        1,
-        2,
-        3
+  "permission": [
+    {
+      "name": "Dashboard",
+      "url": "/dashboard",
+      "icon": "carbon:dashboard",
+      "isParent": true,
+      "child": []
+    },
+    {
+      "name": "Master",
+      "url": "",
+      "icon": "fluent:app-folder-24-regular",
+      "isParent": true,
+      "child": [
+        {
+          "name": "Produk",
+          "url": "/master/produk",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Supplier",
+          "url": "/master/suplier",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Satuan",
+          "url": "/master/satuan",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Outlet",
+          "url": "/master/outlet",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Tipe Barang",
+          "url": "/master/tipe-barang",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Gudang",
+          "url": "/master/gudang",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Pegawai",
+          "url": "/master/pegawai",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Jabatan",
+          "url": "/master/jabatan",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Akun (Chart of Account)",
+          "url": "/master/akun",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        }
       ]
     },
-    "Pembelian": {
-      "Permintaan-Pembelian": [
-        1,
-        2,
-        3
-      ],
-      "Order-Pembelian": [
-        1,
-        2,
-        3
-      ],
-      "Penerimaan-Pembelian": [
-        1,
-        2,
-        3
-      ],
-      "Pembayaran-Supplier": [
-        1,
-        2,
-        3
-      ],
-      "Retur-Pembelian": [
-        1,
-        2,
-        3
-      ],
-      "Laporan-Pembelian": [
-        1,
-        2,
-        3
-      ]
-    },
-    "Penjualan": {
-      "Order-Penjualan": [
-        1,
-        2,
-        3
-      ],
-      "Menu-Penjualan": [
-        4,
-        5
-      ],
-      "Retur-Penjualan": [
-        6,
-        7,
-        8
-      ],
-      "Kitchen": [
-        9,
-        10
-      ],
-      "Laporan": [
-        11,
-        12
-      ]
-    },
-    "Inventory": {
-      "Lihat-Stok": [
-        1,
-        2,
-        3
-      ],
-      "Permintaan-Barang": [
-        4,
-        5
-      ],
-      "Pengiriman": [
-        6,
-        7,
-        8
-      ],
-      "Stok-Masuk-Dan-Keluar": [
-        9,
-        10
-      ],
-      "Transfer-Stok": [
-        11,
-        12
-      ]
-    },
-    "Akuntansi": {
-      "Jurnal-Umum": [
-        1,
-        2,
-        3
-      ],
-      "Buku-Besar": [
-        4,
-        5
-      ],
-      "Laporan": [
-        6,
-        7,
-        8
-      ],
-      "Pengaturan-Akun": [
-        9,
-        10
-      ]
-    },
-    "Personalia": {
-      "Absensi": [
-        1,
-        2,
-        3
-      ],
-      "Penggajian": [
-        4,
-        5
-      ]
-    },
-    "Audit-Trail":{},
-    "Pengaturan": {
-      "Manajemen-Pengguna": [
-        1,
-        2,
-        3
-      ],
-      "Manajemen-Menu": [
-        4,
-        5
-      ],
-      "Manajemen-Hak-Akses": [
-        6,
-        7,
-        8
-      ],
-      "Manajemen-Role": [
-        9,
-        10
-      ],
-      "Data-Perusahaan": [
-        10,
-        11
+    {
+      "name": "Pembelian",
+      "url": "",
+      "icon": "fluent:app-folder-24-regular",
+      "isParent": true,
+      "child": [
+        {
+          "name": "Permintaan Pembelian",
+          "url": "/pembelian/permintaan-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Order Pembelian",
+          "url": "/master/order-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Penerimaan Pembelian",
+          "url": "/pembelian/penerimaan-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Pembayaran Supplier",
+          "url": "/pembelian/pembayaran-supplier",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Retur Pembelian",
+          "url": "/pembelian/retur-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Laporan Pembelian",
+          "url": "/pembelian/laporan-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        }
       ]
     }
-  }
+  ]
+}
 }
 }
 
