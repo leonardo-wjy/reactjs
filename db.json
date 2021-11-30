@@ -192,6 +192,25 @@
           ]
         }
       ]
+    },
+    {
+        "name": "Pengaturan",
+        "url": "",
+        "icon": "fluent:app-folder-24-regular",
+        "isParent": true,
+        "child": [
+          {
+            "name": "Manajemen Role",
+            "url": "/pengaturan/manajemen-role",
+            "permission": [
+              "c",
+              "r",
+              "u",
+              "d",
+              "p"
+            ]
+          },
+        ]
     }
   ]
 }
