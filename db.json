@@ -201,7 +201,7 @@
         "child": [
           {
             "name": "Laporan Pembelian",
-            "url": "/pembelian/laporan-pembelian",
+            "url": "/pengaturan/manajemen-role",
             "permission": [
               "c",
               "r",
