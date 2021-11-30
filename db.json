@@ -1,1 +1,198 @@
-
+{
+"data":
+{
+  "name": "farrel varian",
+  "profile": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png",
+  "role": "owner",
+  "permission": [
+    {
+      "name": "Dashboard",
+      "url": "/dashboard",
+      "icon": "carbon:dashboard",
+      "isParent": true,
+      "child": []
+    },
+    {
+      "name": "Master",
+      "url": "",
+      "icon": "fluent:app-folder-24-regular",
+      "isParent": true,
+      "child": [
+        {
+          "name": "Produk",
+          "url": "/master/produk",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Supplier",
+          "url": "/master/suplier",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Satuan",
+          "url": "/master/satuan",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Outlet",
+          "url": "/master/outlet",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Tipe Barang",
+          "url": "/master/tipe-barang",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Gudang",
+          "url": "/master/gudang",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Pegawai",
+          "url": "/master/pegawai",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Jabatan",
+          "url": "/master/jabatan",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Akun (Chart of Account)",
+          "url": "/master/akun",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pembelian",
+      "url": "",
+      "icon": "fluent:app-folder-24-regular",
+      "isParent": true,
+      "child": [
+        {
+          "name": "Permintaan Pembelian",
+          "url": "/pembelian/permintaan-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Order Pembelian",
+          "url": "/master/order-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Penerimaan Pembelian",
+          "url": "/pembelian/penerimaan-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Pembayaran Supplier",
+          "url": "/pembelian/pembayaran-supplier",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Retur Pembelian",
+          "url": "/pembelian/retur-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        },
+        {
+          "name": "Laporan Pembelian",
+          "url": "/pembelian/laporan-pembelian",
+          "permission": [
+            "c",
+            "r",
+            "u",
+            "d",
+            "p"
+          ]
+        }
+      ]
+    }
+  ]
+}
+}
