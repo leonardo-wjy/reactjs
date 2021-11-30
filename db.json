@@ -194,14 +194,14 @@
       ]
     },
     {
-        "name": "Pengaturan",
+        "name": "Pembelian",
         "url": "",
         "icon": "fluent:app-folder-24-regular",
         "isParent": true,
         "child": [
           {
-            "name": "Manajemen Role",
-            "url": "/pengaturan/manajemen-role",
+            "name": "Permintaan Pembelian",
+            "url": "/pembelian/permintaan-pembelian",
             "permission": [
               "c",
               "r",
